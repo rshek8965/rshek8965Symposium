@@ -1,4 +1,4 @@
-package com.company;
+package hold;
 
 public class Main {
 
